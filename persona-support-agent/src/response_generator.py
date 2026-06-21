@@ -1,0 +1,1 @@
+# Gemini response generator placeholder
